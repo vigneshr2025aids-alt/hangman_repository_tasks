@@ -1,5 +1,0 @@
-STOCK PORTFOLIO TRACKER REPORT
-------------------------------
-GOOG: 100 shares @ $150 each = $15000
-
-Total Portfolio Value: $15000
